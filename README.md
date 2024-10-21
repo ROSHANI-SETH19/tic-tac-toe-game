@@ -1,2 +1,2 @@
 # tic-tac-toe-game
-my first game design
+my first game related design 
